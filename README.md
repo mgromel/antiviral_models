@@ -8,5 +8,5 @@ Contents:
 - ILS-SETS.xlsx - contains 3 sheets with data necessary to reproduce the models
 - script.ipynb - simple Jupyter notebook script with Python code to reproduce the models, the script fits models, performs predictions
                for the training/validation sets and generates classification report. These generated results are sufficient to reproduce any
-               plot, graph and remaining statistics presented in the publications. 
+               plot, graph and remaining statistics presented in the publication. 
 - LICENSE - self explanatory
