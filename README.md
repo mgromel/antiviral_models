@@ -10,3 +10,4 @@ Contents:
                for the training/validation sets and generates classification report. These generated results are sufficient to reproduce any
                plot, graph and remaining statistics presented in the publication. 
 - LICENSE - self explanatory
+- requirements.txt - lists all libraries and their versions that were used to develop QSAR models
