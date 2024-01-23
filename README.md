@@ -1,5 +1,5 @@
 ## Welcome!
-**Tise repository consists of a simple script with Python code to reproduce QSAR models presented in the publication:**
+**This repository consists of a simple script with Python code to reproduce QSAR models presented in the publication:**
 
 *"Hybrid machine learning and experimental studies of antivirucidal potential of ionic liquids against P100, MS2, and Phi6"*
 by Szymon Zdybel, Anita Sosnowska, Dominika Kowalska, Julia Sommer, Beate Conrady, Patrick Mester, Maciej Gromelski and Tomasz Puzyn
